@@ -1,5 +1,99 @@
-#jumbotron {
-    background: url("../IMG/young-couple-driving-convertible-at-sunset.jpg") no-repeat center / cover;
+    * {
+    padding: 0;
+    margin: 0;
+    }
+
+    .italic {
+        font-family: 'Source Serif 4', sans-serif;
+    }
+    .second {
+        font-family: 'Poppins', sans-serif;
+    }
+    .parallax {
+    /* The image used */
+    background-image: url("../IMG/young-couple-driving-convertible-at-sunset.jpg");
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
-.italic {font-family: 'Source Serif 4', sans-serif;}
-.second {font-family: 'Poppins', sans-serif;}
+  .icon1 {
+      text-align: center;
+  }
+  .icon2 {
+      text-align: center;
+  }
+  .icon3 {
+      text-align: center;
+  }
+  .icon4 {
+      text-align: center;
+  }
+    .parallax1 {
+    /* The image used */
+    background-image: url("../IMG/f96b7814-2483-4a6e-adf1-8ac29fed10a0-Road_trip.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+    .parallax2 {
+    /* The image used */
+    background-image: url("../IMG/images.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+    .parallax3 {
+    /* The image used */
+    background-image: url("../IMG/images\ \(1\).jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+    .parallax4 {
+    /* The image used */
+    background-image: url("../IMG/images.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  footer{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 15px;
+    background-color: crimson;
+    padding: 25px 25px
+
+  }
+
+  
